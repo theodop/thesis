@@ -1,0 +1,7 @@
+/home/theo/Dropbox/Uni/EGH400/Code/build/CMakeFiles/install/strip.dir
+/home/theo/Dropbox/Uni/EGH400/Code/build/CMakeFiles/edit_cache.dir
+/home/theo/Dropbox/Uni/EGH400/Code/build/CMakeFiles/theo-thesis.dir
+/home/theo/Dropbox/Uni/EGH400/Code/build/CMakeFiles/rebuild_cache.dir
+/home/theo/Dropbox/Uni/EGH400/Code/build/CMakeFiles/list_install_components.dir
+/home/theo/Dropbox/Uni/EGH400/Code/build/CMakeFiles/install/local.dir
+/home/theo/Dropbox/Uni/EGH400/Code/build/CMakeFiles/install.dir

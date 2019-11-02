@@ -1,0 +1,13 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "cpp build active file",
+            "command": "cmake -DCMAKE_BUILD_TYPE=Debug .. && make",
+            "options": {
+                "cwd": "${workspaceRoot}/build"
+            }
+        }
+    ],
+    "version": "2.0.0"
+}
