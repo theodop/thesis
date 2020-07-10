@@ -2,6 +2,8 @@
 
 This has been presented as an Honours Thesis to QUT.
 
+The final thesis is available in the root folder.
+
 This project presents a technique for increasing situational awareness for the vision impaired, and a prototype of a device to utilise such a technique. A head-mounted Intel RealSense D435i camera is used to capture a depth “image” in front of the user, with a horizontal field of view of approximately 80 degrees. Samples are taken from the horizon of this depth image, and three audio localisation pointers are produced utilising “clap” sounds, with each sound panned in stereo to represent their azimuth relative to the user and delayed by an amount of time proportional to the distance.
 Processing of the depth information is performed using a Raspberry Pi system running Ubuntu MATE. Sound output is performed using the ALSA audio libraries, and a technique for producing low-latency sound output for the audio localisation pointers is presented. The device is “on-demand” (only producing audio when the user requests it) and user input is through a Logitech wireless USB pointer.
 
